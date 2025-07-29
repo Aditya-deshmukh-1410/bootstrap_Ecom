@@ -2,9 +2,37 @@
 
 This is a responsive, multi-section website designed using **HTML5** and **Bootstrap 5**. It includes modern components like a navigation bar, image sections, cards, and a clean footer layout. The site is fully responsive and adapts well to different screen sizes.
 
-## 📸 Preview
+### 📽️ Project Demo
 
-![Website Preview](./preview.gif)
+[![Watch the demo](https://img.youtube.com/vi/7mSKAxhvd5A/hqdefault.jpg)](https://youtu.be/7mSKAxhvd5A)
+
+
+## 🖼️ Webpage Screenshots
+
+Here are some visuals from the project:
+
+### 🔹 Home Page
+![Home Page 1](screenshots/img1.png)
+![Home Page 2](screenshots/img11.png)
+
+
+### 🔹 About List
+![About List 1](screenshots/img2.png)
+![About List 2](screenshots/img22.png)
+
+
+### 🔹 Product Details
+![Product Details](screenshots/img3.png)
+
+### 🔹 Contact Page
+![Contact Page](screenshots/img4.png)
+
+### 🔹 Premium Page
+![Checkout](screenshots/img5.png)
+
+### 🔹 Login / Register Page
+![Confirmation](screenshots/img6.png)
+
 
 
 ## 🚀 Features
@@ -27,6 +55,8 @@ This is a responsive, multi-section website designed using **HTML5** and **Boots
 ```bash
 ├── assets/
 │   └── logo.png, img's.
+├── screenshots/
+│   └──  img1,img11.
 ├── home.html
 ├── about.html
 ├── Product.html
