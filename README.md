@@ -37,12 +37,13 @@ Here are some visuals from the project:
 
 ## 🚀 Features
 
-- Responsive navigation bar
-- Hero section with call-to-action
-- Cards layout for showcasing content
-- Image section with text overlay
-- Footer with contact info/social links
-- Mobile-friendly design using Bootstrap Grid
+- Responsive layout using Bootstrap Grid system.
+- Hero section with call-to-action buttons and background image.
+- Image sections with text overlays for visual appeal.
+- Card-based layout to display products or content.
+- Separate pages for Home, About, Products, Contact, Login/Register, and Premium.
+- Contact form layout ready for backend integration.
+- Clean footer with social media and quick links.
 
 ## 🛠️ Tech Stack
 
@@ -59,9 +60,9 @@ Here are some visuals from the project:
 │   └──  img1,img11.
 ├── home.html
 ├── about.html
-├── Product.html
+├── product.html
 ├── contact.html
-├── Premium.html
+├── premium.html
 ├── Login.html
 ├── Register.html
 └── README.md
