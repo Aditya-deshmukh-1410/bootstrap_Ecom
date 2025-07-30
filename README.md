@@ -47,9 +47,10 @@ Here are some visuals from the project:
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **Bootstrap 5**
+- **HTML5** – Structure and markup  
+- **CSS3** – Custom styling and layout tweaks  
+- **Bootstrap 5** – Responsive layout and prebuilt UI components
+
 
 ## 📁 Folder Structure
 
@@ -63,8 +64,8 @@ Here are some visuals from the project:
 ├── product.html
 ├── contact.html
 ├── premium.html
-├── Login.html
-├── Register.html
+├── login.html
+├── register.html
 └── README.md
 ```
 ## 🧪 Installation
@@ -74,7 +75,7 @@ To run this project locally:
 ```bash
 git clone https://github.com/Aditya-deshmukh-1410/bootstrap_Ecom.git
 cd bootstrap_Ecom
-Open home.html in your browser
+Open `home.html`  in your browser
 ```
 
 
@@ -85,6 +86,10 @@ Open home.html in your browser
 
 🔗 GitHub Repo: [bootstrap_Ecom](https://github.com/Aditya-deshmukh-1410/bootstrap_Ecom)
 
+## 🔧 Future Enhancements
+- Add backend support for login/register.
+- Integrate product purchase with payment gateway.
+- Implement animations using AOS or GSAP.
 
 
 ## 🤝 Contributing
